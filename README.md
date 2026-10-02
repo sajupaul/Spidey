@@ -73,7 +73,8 @@
                          ┌───────────────┐
                          │    OUTPUT     │
                          └───────────────┘
-</div>
+
+
 🕷️ WHAT IS SPIDEY?
 Spidey is a long-term research and engineering project focused on
 building a custom AI system from the ground up.
